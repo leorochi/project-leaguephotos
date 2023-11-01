@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/project-leaguephotos/static/css/main.336c44c6.css",
-    "main.js": "/project-leaguephotos/static/js/main.250f45f2.js",
+    "main.js": "/project-leaguephotos/static/js/main.fa6ecd42.js",
     "static/media/banner.png": "/project-leaguephotos/static/media/banner.6152bab085567a3a9d59.png",
     "static/media/GandhiSans-Regular.otf": "/project-leaguephotos/static/media/GandhiSans-Regular.c2149b5286c581348418.otf",
     "static/media/logo.png": "/project-leaguephotos/static/media/logo.62eedb297e2313d7a451.png",
     "index.html": "/project-leaguephotos/index.html",
     "main.336c44c6.css.map": "/project-leaguephotos/static/css/main.336c44c6.css.map",
-    "main.250f45f2.js.map": "/project-leaguephotos/static/js/main.250f45f2.js.map"
+    "main.fa6ecd42.js.map": "/project-leaguephotos/static/js/main.fa6ecd42.js.map"
   },
   "entrypoints": [
     "static/css/main.336c44c6.css",
-    "static/js/main.250f45f2.js"
+    "static/js/main.fa6ecd42.js"
   ]
 }
