@@ -1,74 +1,74 @@
 [
     {
         "titulo:": "Yuumi",
-        "imagem": "./assets/imagens/galeria/yuumi.jpg",
+        "imagem": "assets/imagens/galeria/yuumi.jpg",
         "id": "1",
         "tag": "Bandópolis"
     },
     {
         "titulo:": "Lulu",
-        "imagem": "./assets/imagens/galeria/lulu.jpg",
+        "imagem": "assets/imagens/galeria/lulu.jpg",
         "id": "2",
         "tag": "Bandópolis"
     },
     {
         "titulo:": "Ashe",
-        "imagem": "./assets/imagens/galeria/ashe.jpg",
+        "imagem": "assets/imagens/galeria/ashe.jpg",
         "id": "3",
         "tag": "Freljord"
     },
     {
         "titulo:": "Sejuani",
-        "imagem": "./assets/imagens/galeria/sejuani.jpg",
+        "imagem": "assets/imagens/galeria/sejuani.jpg",
         "id": "4",
         "tag": "Freljord"
     },
 
     {
         "titulo:": "Teemo",
-        "imagem": "./assets/imagens/galeria/teemo.jpg",
+        "imagem": "assets/imagens/galeria/teemo.jpg",
         "id": "5",
         "tag": "Bandópolis"  
     },
     {
         "titulo:": "Anivia",
-        "imagem": "./assets/imagens/galeria/anivia.jpg",
+        "imagem": "assets/imagens/galeria/anivia.jpg",
         "id": "6",
         "tag": "Freljord"  
     },
     {
         "titulo:": "Azir",
-        "imagem": "./assets/imagens/galeria/azir.jpg",
+        "imagem": "assets/imagens/galeria/azir.jpg",
         "id": "7",
         "tag": "Shurima"  
     },
     {
         "titulo:": "Renekton",
-        "imagem": "./assets/imagens/galeria/renekton.jpg",
+        "imagem": "assets/imagens/galeria/renekton.jpg",
         "id": "8",
         "tag": "Shurima"  
     },
     {
         "titulo:": "Amumu",
-        "imagem": "./assets/imagens/galeria/amumu.jpg",
+        "imagem": "assets/imagens/galeria/amumu.jpg",
         "id": "9",
         "tag": "Shurima"  
     },
     {
         "titulo:": "Lux",
-        "imagem": "./assets/imagens/galeria/lux.jpg",
+        "imagem": "assets/imagens/galeria/lux.jpg",
         "id": "10",
         "tag": "Demacia"  
     },
     {
         "titulo:": "Garen",
-        "imagem": "./assets/imagens/galeria/garen.jpg",
+        "imagem": "assets/imagens/galeria/garen.jpg",
         "id": "11",
         "tag": "Demacia"  
     },
     {
         "titulo:": "Sylas",
-        "imagem": "./assets/imagens/galeria/sylas.jpg",
+        "imagem": "assets/imagens/galeria/sylas.jpg",
         "id": "12",
         "tag": "Demacia"  
     }
